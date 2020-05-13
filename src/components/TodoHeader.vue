@@ -1,5 +1,5 @@
 <template>
-  <h1>할 일 관리 v2</h1>
+  <h1>할 일 관리 v3</h1>
 </template>
 
 <script>
